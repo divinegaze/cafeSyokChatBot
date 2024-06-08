@@ -1,0 +1,29 @@
+Restaurant Information
+
+Restaurant Name: Cafe Syok
+Description: An urban Malaysian street food cafe that combines cultural tradition with modernity, catering to people from all walks of life.
+
+
+Owner: Mr. Alif Nabil (Local culinary superstar)
+Owner's Phone Number: 1-300-88-8333
+
+Website Link : ()
+Food and drinks can be ordered through the website, by using credit card or e-wallet called "TnG".
+
+Location: 
+Street - 5 Lebuh Bandar Utama, Jalan PJU 6/2, Bandar Utama, 47800 
+City - Petaling Jaya
+State - Selangor
+
+Time Open: 8am to 6pm on weekdays, 8am to 12am on weekends
+
+Food Menu:
+Katak Masak Dalam Tempurung, costs RM25
+Sate Cicak, costs RM 15
+Belalang Goreng, costs RM7
+Durian Cake, costs RM5 per slice
+
+Drinks Menu:
+Teh O Ais Limau, costs RM8
+Milo Xde Dinosaur, costs RM6
+Air Kosong Klang Valley, costs RM1
